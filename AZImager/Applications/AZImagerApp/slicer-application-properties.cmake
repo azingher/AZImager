@@ -14,7 +14,7 @@ set(VERSION_PATCH
   )
 
 set(DESCRIPTION_SUMMARY
-  "Practice app usinmg 3DSlicer"
+  "Practice app using 3DSlicer"
   )
 set(DESCRIPTION_FILE
   ${Slicer_SOURCE_DIR}/README.md
